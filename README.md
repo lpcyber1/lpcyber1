@@ -1,17 +1,12 @@
-## Hi there 👋
-```
-My name is Liam and welcome to my personal GitHub!
+<h1 align="center">Hi I'm Liam👋</h1>
 
-Here is where I share what I am working on currently and hope to start on in the future.
+<p align="center">Welcome to my personal GitHub!</p>
 
-I am currently an Assistant Systems Administrator at the Nashua School District.
 
-Right now I am trying to improve my Linux systems admin skills and automation with Bash + Ansible while studying for
-CompTIA Security+.
+<p align="center">
+Here is where I share what I am working on currently and hope to start on in the future. I am currently an Assistant Systems Administrator at the Nashua School District. Right now I am trying to improve my Linux systems admin skills and automation with Bash + Ansible while studying for CompTIA Security+. I aim to be a Linux Systems Administrator in the future.
+</p>
 
-I aim to be a Linux Systems Administrator in the future.
-
-```
 ## Skills & Technologies
 
 
@@ -26,7 +21,9 @@ I aim to be a Linux Systems Administrator in the future.
 
 
 ## Previous Tech Journals
+* [SYS480](https://github.com/lpcyber1/SYS480)
 * [SYS350](https://github.com/lpcyber1/SYS350)
+* [SYS320](https://github.com/lpcyber1/SYS-320-02)
 
 <!--
 **lpcyber1/lpcyber1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
